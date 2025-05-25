@@ -5,6 +5,7 @@
 Лабораторная работа №2:
 ![image](https://github.com/user-attachments/assets/ffbb0aa6-bd46-4311-88bf-33c236545159)
 Лабораторная работа №3:
+
 ![image](https://github.com/user-attachments/assets/ddd52cc9-cf16-4ad0-aaba-f6da5f6594f9)
 
 ![image](https://github.com/user-attachments/assets/ee95ad4a-db37-4c39-988f-723cdb8cd5ac)
